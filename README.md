@@ -1,4 +1,4 @@
-# JQUERY Case Study[scroll,scrollTop,offset,outerHeight,if]
+# JQUERY Case Study
 
 In that simple JQuery based webpage I used: 
 
