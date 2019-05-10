@@ -1,4 +1,4 @@
-# JQUERY Case Study
+# jQUERY Case Study
 
 In that simple JQuery based webpage I used: 
 
